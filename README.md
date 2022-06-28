@@ -1,1 +1,1 @@
-# Code
+# To begin I saw that in order to list my code in columns I had to first attach it to a string. In order to do this I had to use pd.read_csv in order to read it. After I had the string with the columns and list I had to print it to out in order to demonstrate the data. 
